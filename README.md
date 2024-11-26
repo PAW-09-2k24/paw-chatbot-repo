@@ -14,9 +14,9 @@ cd web
 follow the read me
 ```
 
-## Project Code 🧑‍💻
+## Reference Code 🧑‍💻
 
-## Refernece: [github url](https://github.com/gary-george/personal_chatbot)
+[github url](https://github.com/gary-george/personal_chatbot)
 
 ## Overview Blog Post 🤖✉️
 
